@@ -1,0 +1,20 @@
+{
+  "name": "w-jsc-502-nan-2-1-irc-eva.drame",
+  "version": "1.0.0",
+  "description": "my_irc",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server"
+  },
+  "author": "AymericN",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "socket.io": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
